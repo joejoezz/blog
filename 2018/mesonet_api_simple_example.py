@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Specify request parameters (as strings)
-token = 'eaa93aef96e04758ba658faef51ff9ca'
+token = # use your own token
 
 # Create API query string
 args = {
